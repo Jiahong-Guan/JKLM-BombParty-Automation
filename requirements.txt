@@ -1,0 +1,7 @@
+keyboard~=0.13.5
+pytesseract~=0.3.10
+PyAutoGUI~=0.9.54
+opencv-python~=4.10.0.84
+numpy~=2.0.1
+colorama~=0.4.6
+pynput~=1.7.7

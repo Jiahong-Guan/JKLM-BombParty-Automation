@@ -162,4 +162,5 @@ cython_debug/
 .idea/
 
 *.zip
-*.png
+screenshot_raw.png
+preprocessed_screenshot.png
